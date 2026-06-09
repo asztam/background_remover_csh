@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="BackgroundRemover.CLI/BackgroundRemover.CLI.csproj" />
+  <Project Path="BackgroundRemover.Core/BackgroundRemover.Core.csproj" />
+  <Project Path="BackgroundRemover.Infrastructure/BackgroundRemover.Infrastructure.csproj" />
+</Solution>

@@ -71,3 +71,5 @@ nunit-*.xml
 # local test data
 *.jpg
 *.png
+test*
+notes*
