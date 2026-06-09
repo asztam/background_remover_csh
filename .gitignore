@@ -55,3 +55,19 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# vsc IDE
+.vs/
+.vscode/
+.idea/
+
+# ML stuff
+*.pdb
+*.onnx
+*.pb
+*.pth
+*.weights
+
+# local test data
+*.jpg
+*.png
